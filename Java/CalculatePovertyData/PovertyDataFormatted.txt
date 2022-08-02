@@ -1,0 +1,129 @@
+
+
+
+Family Income Information of Input File:
+HouseholdData.txt
+
+
+	 ID             Amount         Members    State       
+
+        1000          $31,000.00           3	Texas               
+        1042          $12,180.06           3	Texas               
+        1062          $13,240.45           2	Texas               
+        1200          $36,000.00           2	Maryland            
+        1327          $19,800.56           2	Alaska              
+        1483          $22,458.23           7	Texas               
+        1900          $17,000.09           3	Washington          
+        2000          $16,910.00           2	Vermont             
+        2112          $23,125.00           4	Alaska              
+        2500          $20,001.00           5	Hawaii              
+        3000          $21,330.00           3	Texas               
+        3210          $13,200.00           1	Minnesota           
+        3600          $77,500.00           4	California          
+        3601          $11,970.00           2	Illinois            
+        4000          $25,750.00           4	Florida             
+        4724           $8,900.00           3	Oklahoma            
+        6217          $45,000.70           2	Texas               
+        9280           $6,200.00           1	Vermont             
+        5000          $30,170.00           2	Hawaii              
+        5100          $30,170.05           5	Arkansas            
+        5601          $51,970.00           9	Illinois            
+        5724          $66,900.00           3	Florida             
+        5217          $10,002.68           2	Texas               
+        5280          $70,000.00           1	Washington          
+        5000         $100,000.00          10	Hawaii              
+        5200          $25,000.40           3	Texas               
+        5230         $120,000.00           6	California          
+        6641          $85,000.00           7	Alaska              
+        7000          $45,500.00           4	Maryland            
+        7100          $56,500.00           3	Illinois            
+        7205          $50,100.65           8	Arkansas            
+        7210         $270,015.90           4	Texas               
+        7340          $70,100.25           9	Iowa                
+        7301          $67,590.40           6	Texas               
+        7420          $35,000.58           8	Arkansas            
+        7500          $22,000.69           4	Iowa                
+        7560          $19,490.00           1	Hawaii              
+        7720          $55,490.00           4	Pennsylvania        
+        7800          $66,550.45           3	Iowa                
+        7900          $65,000.95           5	Texas               
+        8100          $38,005.93           6	Michigan            
+        8120         $190,065.90           4	Minnesota           
+        8210          $18,005.29           6	Mississippi         
+        8250         $170,005.34          12	Missouri            
+        8320          $10,005.44           8	Montana             
+        8450         $126,005.65          10	Nebraska            
+        8460          $20,005.78           9	Nevada              
+        8500         $110,005.90           2	New                 
+        9100          $35,005.20           4	New                 
+        9200         $110,005.59           8	New                 
+        9300          $45,005.90           7	New                 
+        9400         $150,005.45           5	North               
+        9500          $19,005.90           6	North               
+        9600          $37,005.55           4	Ohio                
+        9700          $18,005.90           3	Oklahoma            
+        9800         $130,005.90          11	Oregon              
+        9850          $14,005.50           1	Pennsylvania        
+        9860         $110,005.20           6	Rhode               
+        9910          $22,065.95           2	South               
+        9920         $210,005.85           8	New                 
+
+
+Families above the average income of $56,939.20
+
+	 ID             Amount         Members    State       
+
+        3600          $77,500.00           4	California          
+        5724          $66,900.00           3	Florida             
+        5280          $70,000.00           1	Washington          
+        5000         $100,000.00          10	Hawaii              
+        5230         $120,000.00           6	California          
+        6641          $85,000.00           7	Alaska              
+        7210         $270,015.90           4	Texas               
+        7340          $70,100.25           9	Iowa                
+        7301          $67,590.40           6	Texas               
+        7800          $66,550.45           3	Iowa                
+        7900          $65,000.95           5	Texas               
+        8120         $190,065.90           4	Minnesota           
+        8250         $170,005.34          12	Missouri            
+        8450         $126,005.65          10	Nebraska            
+        8500         $110,005.90           2	New                 
+        9200         $110,005.59           8	New                 
+        9400         $150,005.45           5	North               
+        9800         $130,005.90          11	Oregon              
+        9860         $110,005.20           6	Rhode               
+        9920         $210,005.85           8	New                 
+
+
+Families below the 2022 poverty level:
+
+       Poverty
+	Level              ID             Amount         Members  State       
+
+      $21,720.00          1042          $12,180.06           3	Texas               
+      $17,240.00          1062          $13,240.45           2	Texas               
+      $21,550.00          1327          $19,800.56           2	Alaska              
+      $39,640.00          1483          $22,458.23           7	Texas               
+      $21,720.00          1900          $17,000.09           3	Washington          
+      $17,240.00          2000          $16,910.00           2	Vermont             
+      $32,750.00          2112          $23,125.00           4	Alaska              
+      $35,280.00          2500          $20,001.00           5	Hawaii              
+      $21,720.00          3000          $21,330.00           3	Texas               
+      $17,240.00          3601          $11,970.00           2	Illinois            
+      $26,200.00          4000          $25,750.00           4	Florida             
+      $21,720.00          4724           $8,900.00           3	Oklahoma            
+      $12,760.00          9280           $6,200.00           1	Vermont             
+      $30,680.00          5100          $30,170.05           5	Arkansas            
+      $17,240.00          5217          $10,002.68           2	Texas               
+      $44,120.00          7420          $35,000.58           8	Arkansas            
+      $26,200.00          7500          $22,000.69           4	Iowa                
+      $35,160.00          8210          $18,005.29           6	Mississippi         
+      $44,120.00          8320          $10,005.44           8	Montana             
+      $48,600.00          8460          $20,005.78           9	Nevada              
+      $35,160.00          9500          $19,005.90           6	North               
+      $21,720.00          9700          $18,005.90           3	Oklahoma            
+
+Percentage below the 2022 poverty level is: 36.67%
+
+
+
